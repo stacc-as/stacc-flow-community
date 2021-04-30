@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 **Version**
 What versions are in use
 
-**To Reproduce**
+**To reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
