@@ -2,10 +2,12 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: 'type:enhancement'
+labels: 'type: Enhancement'
 assignees: ''
 
 ---
+
+
 
 **Relevant Flow module(s)**
 Which Flow modules are relevant to this suggestion? (E.g. Flow-process)
