@@ -10,8 +10,8 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Version**
-What versions are in use
+**Module and version**
+Which Flow module does this bug concern and what version is in use (e.g flow-process, v.9.8.785)
 
 **To reproduce**
 Steps to reproduce the behavior:
