@@ -1,5 +1,7 @@
 # Stacc Flow community
 
-This repository is used to gather feature requests and bug reports for general platform features. It should not be used for customer specific issues.
+**Feature requests and bug reports for the flow platform.**
 
-[create issue](https://github.com/stacc-as/stacc-flow-community/issues/new/choose)
+*(Not to be used for customer specific issues)*
+
+[Create issue](https://github.com/stacc-as/stacc-flow-community/issues/new/choose)
